@@ -36,7 +36,7 @@ body {
   width: 176px;
   height: 32px;
   margin: 0 auto;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-repeat: no-repeat;
   background-position: 0 -254px;
 }
@@ -189,7 +189,7 @@ body {
 .down-1 {
   width: 12px;
   height: 8px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-repeat: no-repeat;
   background-position: 0 -519px;
 }
@@ -213,7 +213,7 @@ body {
 .search {
   width: 22px;
   height: 22px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-repeat: no-repeat;
   background-position: 0 -669px;
   margin: auto;
@@ -259,7 +259,7 @@ body {
   z-index: 1;
   width: 25px;
   height: 18px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -691px;
   background-repeat: no-repeat;
 }
@@ -268,7 +268,7 @@ body {
   z-index: 1;
   width: 12px;
   height: 8px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -527px;
   background-repeat: no-repeat;
 }
@@ -294,7 +294,7 @@ body {
 .wiki-info-img {
   width: 42px;
   height: 42px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -212px;
   background-repeat: no-repeat;
 }
@@ -324,7 +324,7 @@ body {
 .app-info-img {
   width: 42px;
   height: 42px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -709px;
   background-repeat: no-repeat;
 }
@@ -338,7 +338,7 @@ body {
 .google-play {
   width: 124px;
   height: 38px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -535px;
   background-repeat: no-repeat;
   border: 1px solid transparent;
@@ -349,7 +349,7 @@ body {
 .app-store {
   width: 110px;
   height: 38px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -573px;
   background-repeat: no-repeat;
   border: 1px solid transparent;
@@ -390,84 +390,84 @@ body {
 .proyects-info-item-img-1 {
   width: 47px;
   height: 47px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 0;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-2 {
   width: 37px;
   height: 37px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -126px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-3 {
   width: 43px;
   height: 37px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -409px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-4 {
   width: 39px;
   height: 39px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -328px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-5 {
   width: 36px;
   height: 36px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -446px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-6 {
   width: 47px;
   height: 25px;
-  background-image: url("../images/wikinews-logo.png");
+  background-image: url('../images/wikinews-logo.png');
   background-position: contain;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-7 {
   width: 42px;
   height: 42px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -286px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-8 {
   width: 42px;
   height: 42px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -367px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-9 {
   width: 37px;
   height: 37px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -482px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-10 {
   width: 49px;
   height: 49px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -163px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-11 {
   width: 42px;
   height: 42px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -47px;
   background-repeat: no-repeat;
 }
 .proyects-info-item-img-12 {
   width: 37px;
   height: 37px;
-  background-image: url("../images/wikipedia-icons.svg");
+  background-image: url('../images/wikipedia-icons.svg');
   background-position: 0 -89px;
   background-repeat: no-repeat;
 }
